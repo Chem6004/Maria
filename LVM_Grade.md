@@ -2,7 +2,7 @@
 - Submission complete (All questions answered, code used to support answers): Yes -> 100%
 - Question 1 Answered Accurately: Yes -> 100%
 - Question 2 Answered Accurately: Yes -> 100%
-- Question 3 Answered Accurately: Partially (missing steps) -> 75%
+- Question 3 Answered Accurately: Yes -> 100%
 - Question 4 Answered Accurately: Yes -> 100%
 - Question 5 Answered Accurately: Partially -> 75%
 - Question 6 Answered Accurately: Yes -> 100%
