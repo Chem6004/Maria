@@ -4,5 +4,5 @@
 - Question 3 15/20 (Hamiltonian is missing 2-electron repulsion term for Hartree product)
 - Question 4 18/20 (Small numerical error in the expectation value)
 - Question 5 20/20 
-- Cumulative Accuracy for questions:  66%
-- Final Grade for Orientation is 1/2(On Time + Accuracy) = 83%
+- Cumulative Accuracy for questions:  76%
+- Final Grade for Orientation is 1/2(On Time + Accuracy) = 88%
