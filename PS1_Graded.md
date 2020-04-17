@@ -1,0 +1,8 @@
+- Submission on time: Yes -> 100%
+- Question 1: 13/20 (numerical error in part a, part b needs explanation)
+- Question 2 10/20 (potential used is still the potential from the computational lab, not the problem set)
+- Question 3 15/20 (Hamiltonian is missing 2-electron repulsion term for Hartree product)
+- Question 4 18/20 (Small numerical error in the expectation value)
+- Question 5 20/20 
+- Cumulative Accuracy for questions:  66%
+- Final Grade for Orientation is 1/2(On Time + Accuracy) = 83%
